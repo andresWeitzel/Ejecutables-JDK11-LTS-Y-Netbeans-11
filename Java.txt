@@ -1,0 +1,5 @@
+//JDK//->
+https://www.softpedia.com/get/Programming/SDK-DDK/Sun-Java-JDK.shtml
+
+//NETBEANS//->
+https://archive.apache.org/dist/netbeans/netbeans/11.1/Apache-NetBeans-11.1-bin-windows-x64.exe
